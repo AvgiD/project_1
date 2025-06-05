@@ -43,7 +43,7 @@ Streamlit-приложение предоставляет:
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/e90rt/predictive_maintenance_project.git
+git clone https://github.com/AvgiD/project_1.git
 
 # Перейти в директорию проекта
 cd predictive maintenance project
