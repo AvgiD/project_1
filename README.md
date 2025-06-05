@@ -46,7 +46,7 @@ Streamlit-приложение предоставляет:
 git clone https://github.com/AvgiD/project_1.git
 
 # Перейти в директорию проекта
-cd predictive maintenance project
+cd project_1
 
 # Установить зависимости
 pip install -r requirements.txt
